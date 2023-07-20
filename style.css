@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Pacifico&display=swap');
+*{
+    margin: 0 auto;
+}
+body{
+    background-color: rgb(189, 151, 189);
+}
+.stroka1{
+    display: flex;
+    padding-top: 20px;
+}
+.stroka2{
+    display: flex;
+    padding: 60px;
+}
+.knopka{
+    background-color: rgb(254, 255, 218);
+    width: 300px;
+    height: 320px;
+    border-radius: 10px;
+    text-align: center;
+}
+i{
+    font-size: 230px;
+    color: rgb(0, 10, 102);
+    padding-top: 25px;
+}
+.knopka:hover{
+    background-color: rgb(183, 184, 157);
+    transition: 0.2s;
+}
+.canva{
+    width: 150px;
+    background-color: rgb(254, 255, 218);
+    height: 100px;
+    text-align: center;
+    padding-bottom: 5px;
+    border-radius: 10px;
+    color: rgb(0, 10, 102);
+    padding-top: 10px;
+}
+.strelka{
+    display: flex;
+}
+.strellka{
+    width: 20px;
+    height: 100px;
+    padding-top: 10px;
+
+}
+.fa-forward{
+    font-size: 40px;
+    color: rgb(254, 255, 218);
+}
+h1{
+    font-family: "pacifico";
+    font-size: 50px;
+}
